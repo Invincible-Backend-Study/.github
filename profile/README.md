@@ -1,12 +1,6 @@
-## Hi there 👋
+## 무백스(무적 백엔드 스터디)
+<img src="https://user-images.githubusercontent.com/66772624/227790401-efdd3e2f-d9a5-49f0-9465-a774a1d901ac.png" width="300" height="300">
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+무백스는 이렇게 공부합니다!
+- 함께 성장하는것이 1순위입니다!
+- 궁금한것이 있다면 지구 끝까지 알아내려 합니다!
